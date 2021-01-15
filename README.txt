@@ -9,8 +9,8 @@ Instruction pour mettre en place la BDD :
 
 Instruction pour le serveur :
 - Il faudra mettre en place Flask et lancer un serveur local.
-- Faire attention à modifier le mdp du fichier "app.py" pour l'accès à la base de données.
+- Faire attention à modifier le mot de passe dans le fichier "app.py" du dossier "Serveur" pour l'accès à la base de données.
 
 Instruction pour l'application mobile :
-- Mettre l'apk (dans L3Games-Dossier) sur l'appareil sous Android
+- Mettre l'apk L3Games.apk sur l'appareil sous Android
 - Trouver sur l'appareil l'apk et l'installer.
